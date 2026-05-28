@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="winauth_example/winauth_example.vcxproj" Id="ac1b704e-b1e0-4b82-8e17-b2c61969fe50" />
+</Solution>
