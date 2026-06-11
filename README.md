@@ -5,7 +5,7 @@ This loader was tested built via MSVC and is ready to be built and used, under c
 
 # Requirements
 - Have an active winauth subscription (Starter/Pro/Enterprise)
-- Have your product uploaded to the [WinAuth dashboard](https://winauth.net/dashboard).
+- Have your product uploaded to the [WinAuth dashboard](https://winauth.net/dashboard/api?tab=client-credentials).
 - Windows 10/11
 
 # Setup
